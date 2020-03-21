@@ -1,0 +1,5 @@
+neuron_tcp_modbus (0.0.1) buster; urgency=medium
+
+  * Initial release.
+
+ -- Bernhard Trinnes <bernhard.trinnes@nymea.io>  Fri, 21 March 2020 10:12:00 +0000
